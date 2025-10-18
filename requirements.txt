@@ -1,0 +1,6 @@
+streamlit==1.50.0
+gspread
+oauth2client
+pandas
+plotly
+streamlit-autorefresh
