@@ -1,0 +1,14 @@
+# Streamlit e dependências principais
+streamlit==1.50.0
+pandas
+plotly
+
+# Google Sheets
+gspread
+oauth2client
+
+# Auto atualização da página
+streamlit-autorefresh
+
+# Manipulação de datas
+python-dateutil
